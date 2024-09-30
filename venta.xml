@@ -1,0 +1,53 @@
+<Tabla nombre="Usuario">
+  <Columna nombre="ID_Usuario" tipo="int" clave="primaria"/>
+  <Columna nombre="Nombre" tipo="varchar"/>
+  <Columna nombre="Apellido" tipo="varchar"/>
+  <Columna nombre="Segundo_Apellido" tipo="varchar"/>
+  <Columna nombre="Correo_Electronico" tipo="varchar" unico="true"/>
+  <Columna nombre="Contraseña" tipo="varchar"/>
+  <Columna nombre="Rol" tipo="varchar"/>
+  <Columna nombre="Provincia" tipo="varchar"/>
+  <Columna nombre="Ciudad" tipo="varchar"/>
+  <Columna nombre="Sector" tipo="varchar"/>
+  <Columna nombre="Cedula" tipo="varchar"/>
+  <Columna nombre="Celular" tipo="varchar"/>
+  <Columna nombre="Tipo_Cuenta" tipo="varchar"/>
+  <Columna nombre="Numero_Cuenta" tipo="varchar"/>
+  <Columna nombre="Comision_Total" tipo="decimal"/>
+</Tabla>
+
+<Tabla nombre="Paquete">
+  <Columna nombre="ID_Paquete" tipo="int" clave="primaria"/>
+  <Columna nombre="Nombre_Paquete" tipo="varchar"/>
+  <Columna nombre="Descripcion" tipo="varchar"/>
+  <Columna nombre="Precio" tipo="decimal"/>
+  <Columna nombre="Estado" tipo="varchar"/>
+</Tabla>
+
+<Tabla nombre="Venta">
+  <Columna nombre="ID_Venta" tipo="int" clave="primaria"/>
+  <Columna nombre="ID_Usuario" tipo="int" clave_foranea="Usuario.ID_Usuario"/>
+  <Columna nombre="ID_Paquete" tipo="int" clave_foranea="Paquete.ID_Paquete"/>
+  <Columna nombre="Fecha_Compra" tipo="datetime"/>
+  <Columna nombre="Total" tipo="decimal"/>
+  <Columna nombre="Metodo_Pago" tipo="varchar"/>
+  <Columna nombre="Comprobante_Pago" tipo="varchar"/>
+  <Columna nombre="Estado_Validacion" tipo="varchar"/>
+  <!-- ... Otros atributos relacionados con los datos del cliente e hijo ... -->
+</Tabla>
+
+<Tabla nombre="Comision">
+  <Columna nombre="ID_Comision" tipo="int" clave="primaria"/>
+  <Columna nombre="ID_Vendedor" tipo="int" clave_foranea="Usuario.ID_Usuario"/>
+  <Columna nombre="Total_Comision" tipo="decimal"/>
+  <Columna nombre="Fecha_Pago" tipo="datetime"/>
+  <Columna nombre="Estado_Pago" tipo="varchar"/>
+</Tabla>
+
+<Tabla nombre="Factura">
+  <Columna nombre="ID_Factura" tipo="int" clave="primaria"/>
+  <Columna nombre="ID_Venta" tipo="int" clave_foranea="Venta.ID_Venta"/>
+  <Columna nombre="Fecha_Emision" tipo="datetime"/>
+  <Columna nombre="Total" tipo="decimal"/>
+  <Columna nombre="Correo_Envio" tipo="varchar"/>
+</Tabla>

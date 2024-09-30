@@ -1,0 +1,12 @@
+?column?,?column?,?column?,?column?
+Table,Column,Change,Explanation
+Usuarios,vendedor_id,Add Foreign Key,References Vendedor table
+Usuarios,id_ciudad,Add Foreign Key,References Ciudad table
+Usuarios,id_cuenta,Add Foreign Key,References Cuentas_Bancarias table
+Ciudad,id_provincia,Add Foreign Key,References Provincia table
+Compra,usuario_id,Add Foreign Key,References Usuarios table
+Detalle_Compra,compra_id,Add Foreign Key,References Compra table
+Detalle_Compra,paquete_id,Add Foreign Key,References Paquetes table
+Hijo,cliente_id,Add Foreign Key,References Usuarios table
+Hijo,institución_id,Add Foreign Key,References Institución table
+Comisión,vendedor_id,Add Foreign Key,References Vendedor table

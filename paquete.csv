@@ -1,0 +1,6 @@
+id,nombre,descripcion,precio
+1,Paquete Básico,Incluye acceso al juego y plataforma,29.99
+2,Paquete Premium,"Incluye acceso al juego, plataforma y contenido extra",49.99
+3,Paquete Familiar,Acceso para toda la familia,79.99
+4,Paquete Estudiante,Descuento para estudiantes,19.99
+5,Paquete Corporativo,Acceso para empresas,99.99

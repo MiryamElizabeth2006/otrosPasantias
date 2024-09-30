@@ -1,0 +1,69 @@
+Intercolegial - primero
+Ventas - Segundo
+
+Ventas - Requerimientos
+
+Meta de ventas del año: 10.000
+
+Ya debe ir con diseño incluido que va en la plataforma.
+
+Todo lo variable va ser trabajo de administración(pantalla)
+
+Ventas de dos formas
+
+En la plataforma se va poder comprar con un botón de pago solo el botón en el mockap 
+
+"Quieres generar ingresos extras"
+Se inscribe y se le da un código de vendedor(Charlas del producto y capacitación),Ganan comisiones la persona que se inscriba como vendedor envía la publicidad necesita whatsapp y contactos
+nosotros le damos la publicidad para que promocione 
+
+En la pagina la compra la realiza directamente el cliente el vendedor solo se va encargar de conseguir el contacto se va poder pagar por tarjeta y transferencia y los comprobantes(Ver la forma que se pueda verificar el comprobante de pago whatsapp o la misma plataforma)Se envía un link del vendedor  Si se pone el código de un vendedor le sale un descuento así se comprobara que el vendedor ha realizado la venta mientras más se vende (se envía el link con el código que va junto al link par que así se vea la referencia que el cliente fue contactado por el vendedor) en la pagina principal que haya un anuncio de código referido.
+
+Ya la venta concretada, se necesita enviar ls credenciales con los datos ingresados que le llegue (considerar los combos de las varias credenciales)
+
+Como se va ver al inicio en la plataforma lo llamativo de generar ingresos extras
+En la publicidad de redes le envié  la plataforma donde haya un publicidad que al ingresar le envié directo l formulario de registro como vendedor:
+
+Datos Personales del vendedor
+Cuando quieres cobrar que se pida los datos de cuenta para elegir tipo de identificación o pasaporte, la cédula por defecto ya que son diferentes validaciones agregar el "país" en combo para país cambia el formato por departamentos o otras ciudades, código de país para agregar el celular. 
+
+Enviar un mensaje a whatsapp de confirmación de registro da click en el link para que genere su contraseña ver validaciones de la contraseña de los caracteres (ejemplo: de 8 a 12 caracteres). el usuario va ser la cédula.
+
+Va a la pantalla de login: cedula, contraseña, restablecer contraseña e ingresar, una vez ingrese como página principal a un bienvenido y tenga la opción de capacitación y le de la opción de video y los links de zoom con as fechas de la reunión, luego tiene que resolver el quiz un vez aprobado le da el código de vendedor y si no aprueba debe repetir el quiz las oportunidades son infinitas del quiz,  un lado debe tener el registrar cuenta por el momento.
+
+Proceso de venta debe tener.
+ en el perfil están algos de sus datos "Vendedor #007", puede agregar foto de perfil, nombre , apellido  y el link que va con el código de vendedor, debe estar llamativo  el historial de ventas con el número de ventas y dinero acumulado.
+
+PAQUETE DE VENTAS
+
+En el mismo perfil debe tener el paquete de ventas:
+
+Costo inicial: 50 pero siempre debe tener un descuento ósea que nunca va a costar ese precio solo sera referencial, 5 dólares por cada venta.
+Sea comisión por ventas de un rango de ventas mayor se te agrega comisión, le podría motivar por niveles de vendedor, que sea el vendedor007 y una barrita con el progreso del vendedor y en la barra por secciones le refleje el número de ventas que avanzas de nivel como vendedor.
+
+La barra de progreso se debe reiniciar por mes.
+La barra de ventas se reinicia y la barra de categorías se va llenando poco a poco por experiencia va servir para las bonificaciones y los sorteos
+
+Abajo debe estar Ventas por mes:
+y numero de ventas y total a cobrar el dinero acumulado.
+
+Dos condiciones la barra se reinicia de dos formas cuando se reinicia el mes y cuando el vendedor cobra la comisión 
+
+Poner un ranking de ventas donde haiga un podio con el mejor vendedor y el ranking es mensual que se va ir reiniciando, va ser por país o por mes conteo regresivo por días del mes algo que indique el tiempo que dura, también bonificaciones por porcentaje ese numero no es fijo, que sea las bonificaciones por numero de ventas que tenga un número al que se debe llegar.
+Bonificación de vendedor en algunas fechas por más del número de ventas se de una bonificación o algún sorteo de ventas.
+
+paquete 1 : costo del paquete 
+
+INTERFAZ DE COMPRA
+
+"observación.-Va haber paquetes o combos"
+Precio de venta la publico, precio base : 50, Precio real de compra 35, licencia nivel 1
+Que haya un precio de base y luego se muestre algo como descuento le baje un porcentaje al valor de base.
+
+"La venta que sea con carrito de compras"
+
+elija el paquete y elija su forma de pago: "Tarjeta" o "Transferencia" después del pago el ingresar información del tutor y del hijo, segundo: tutor y dos hijos, tercero: tutor y tres hijos
+
+Datos del tutor, estudiante1, datos de facturación, opción de los mismos datos del tutor o agregar otros datos y según el número de hijos.
+
+

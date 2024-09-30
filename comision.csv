@@ -1,0 +1,3 @@
+id,vendedor_id,monto,fecha_pago,estado
+1,3,50.00,2024-09-12 12:27:25.932+00,Pendiente
+2,4,75.00,2024-09-12 12:27:25.932+00,Pagado

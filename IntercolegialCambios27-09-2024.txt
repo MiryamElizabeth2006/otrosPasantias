@@ -1,0 +1,17 @@
+27/09/2024
+
+Intercolegial
+Cambios Figma
+Administrador-se encarga de publicar noticias acerca del intercolegial en la vista del docente
+Un botón de siguiente en el momento de descargar el template(excel) 
+No funciona automáticamente el bot.
+Modo atendido va ser del bot, "se notificara cuando la matriculación se haya realizado" Mensaje para matriculación al docente.
+En secretaria que pueda registrar docente e institución también. (Seguir la misma interfaz de docente)
+Complementar con Login
+
+Secretaria sube contenido de noticias también.
+Administrador genera permisos, crear o asignar rol.
+Administrador no elimina ni edita instituciones, docente ni participantes.
+ 
+
+

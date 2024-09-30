@@ -1,0 +1,102 @@
+MICHI WEB
+Historial de Revisiones
+Entregables
+Michi Game --> Componente
+*Análisis de cada entregable, lo que se debe realizar:
+
+Diagrama de componente de la michi web
+
+-----------------------------ANALÍSIS Y DISEÑO-------------------------------
+
+Michi Web --> Componentes:
+
+Entrada --> Proceso --> Salida
+
+
+
+-Recompensas 
+-Refuerzo Académico
+-Ventas
+-Simulador
+
+*A partir de la comunicación acerca de lo realizado se hacen las API.
+
+*A partir de ver el análisis y diseño se realiza un "PRD".
+
+1.INTRODUCCIÓN
+1.1 Resumen ejecutivo
+
+
+1.2 Objetivo
+
+1.3 Alcance 
+
+1.4 Requerimientos
+
+*Historia de Usuario
+
+1.5 Requerimiento fuera de alcance
+
+1.6 Diseño
+
+*Aqui va el link del figma
+
+1.7 Resultados esperados
+
+
+----------------------------------DISEÑO Y BDD-------------------------------
+
+*Excel
+*MER
+
+
+-----------------------------------------
+
+Rol: Actúa como Business Analice con 10 años de experiencia 
+Tarea: Ayúdame a definir el resumen de mi proyecto de educación financiera que consta de los elementos mencionado en el contexto.
+Contexto: Estamos trabajando en una plataforma de educación financiera , el cual esta destinado a niños de 9 a 17 años, y tiene como objetivo fomentar la educación  financiera a nivel Ecuador.
+Salida: texto/ tabla / whatsapp
+Idioma: Idioma
+
+Contexto: Estamos trabajando en una plataforma de educación financiera , el cual esta destinado a niños de 9 a 17 años, y tiene como objetivo fomentar la educación  financiera a nivel Ecuador
+
+La plataforma tiene los siguiente componentes(Recompensa, simulador, refuerzo de conocimiento y Ventas)
+
+Una oportunidad de aprender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

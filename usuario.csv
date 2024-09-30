@@ -1,0 +1,6 @@
+id,nombre,apellido,segundo_apellido,correo_electronico,contraseña,tipo_usuario
+1,Juan,Pérez,Gómez,juan.perez@example.com,password123,Cliente
+2,María,López,Martínez,maria.lopez@example.com,password123,Cliente
+3,Carlos,Sánchez,Rodríguez,carlos.sanchez@example.com,password123,Vendedor
+4,Ana,García,Fernández,ana.garcia@example.com,password123,Vendedor
+5,Luis,Martín,Hernández,luis.martin@example.com,password123,Administrador

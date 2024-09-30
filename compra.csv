@@ -1,0 +1,6 @@
+id,usuario_id,fecha_compra,estado_pago,comprobante_pago
+1,1,2024-09-12 12:27:24.304+00,Pendiente,
+2,2,2024-09-12 12:27:24.304+00,Completado,
+3,3,2024-09-12 12:27:24.304+00,Pendiente,
+4,4,2024-09-12 12:27:24.304+00,Completado,
+5,1,2024-09-12 12:27:24.304+00,Completado,

@@ -1,0 +1,50 @@
+Resumen de Reunión
+Meta de ventas anual:
+
+$10,000 es la meta de ventas establecida.
+Formas de venta:
+
+Venta directa en la plataforma:
+
+Los clientes podrán comprar mediante un botón de pago, visible en el mockup.
+Pago con tarjeta o transferencia.
+Comprobantes podrán ser verificados por WhatsApp o directamente en la plataforma.
+Enlace de vendedor con código de referencia para aplicar descuento al cliente y comprobar la venta del vendedor.
+Cada venta genera comisiones para los vendedores.
+Venta a través de vendedores:
+
+Vendedores se inscriben, reciben un código de vendedor y capacitación sobre el producto.
+Se les provee de material publicitario para promover ventas.
+Los vendedores deben compartir su enlace con código para ganar comisiones.
+El código referido ofrecerá un descuento al cliente, validando la venta del vendedor.
+Comisiones: $5 por venta, con incentivos por niveles y rangos.
+Interfaz de venta para clientes:
+
+Los clientes podrán elegir entre paquetes con diferentes precios y combinaciones:
+Precio base: $50.
+Precio con descuento: $35.
+Paquetes:
+Tutor y un hijo.
+Tutor y dos hijos.
+Tutor y tres hijos.
+El carrito de compras permitirá seleccionar el paquete, método de pago, y registrar los datos del tutor y estudiantes.
+Proceso para Vendedores:
+
+Los vendedores se registrarán en la plataforma, proporcionando datos personales y bancarios.
+Reciben un mensaje de WhatsApp para confirmar su registro y crear su contraseña (validaciones de 8-12 caracteres).
+Después del registro, acceden a la plataforma con cédula y contraseña.
+Capacitación disponible con videos, enlaces de Zoom, y quiz para aprobar.
+El código de vendedor se entrega tras aprobar el quiz (intentos ilimitados).
+Perfil del vendedor:
+
+Información del vendedor (nombre, apellido, foto, código de vendedor, historial de ventas).
+Comisiones y dinero acumulado visibles.
+Progreso de ventas se mide por una barra que se reinicia mensualmente o cuando se cobra la comisión.
+Clasificación por país, con podio para los mejores vendedores del mes.
+Bonificaciones y rangos:
+
+Sistema de bonificaciones según el número de ventas.
+Sorteos o incentivos adicionales para fechas especiales o vendedores destacados.
+Validaciones para el registro de vendedores:
+
+Opción de elegir tipo de documento (cédula o pasaporte), validando el país y el formato de número de celular.
